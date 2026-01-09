@@ -1,0 +1,28 @@
+.container {
+  font-size: 40px;
+  width: 100%;
+  background-color: LightGray;
+  display: grid;
+  grid-template-columns: 1fr 100px 2fr;
+  grid-template-rows: 50px 50px;
+}
+
+.d1 {
+  background-color: lightcoral;
+}
+
+.d2 {
+  background-color: lightblue;
+}
+
+.d3 {
+  background-color: lightgreen;
+}
+
+.d4 {
+  background-color: khaki;
+}
+
+.d5 {
+  background-color: plum;
+}
